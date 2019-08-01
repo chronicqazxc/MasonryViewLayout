@@ -12,4 +12,4 @@ The main part of masonry layout is the class MasonryViewLayout which inherited f
 
 ![](.assets/masonry.png)
 
-[Wayne Hsiao](chronicqazxc@gmail.com), Aug 1, 2019
+[Wayne Hsiao](mailto:chronicqazxc@gmail.com), Aug 1, 2019
