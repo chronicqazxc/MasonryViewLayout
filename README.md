@@ -1,6 +1,7 @@
 # MasonryViewLayout
 
 ![](.assets/image.png)
+![](.assets/architecture.png)
 
 The Masonry layout was famoused by [Pinterest](https://www.pinterest.com) and is now used by various sites. It is cool for accomedate different size of views in two-dimensional space.
 
