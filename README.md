@@ -1,6 +1,4 @@
 # MasonryViewLayout
-
-## Demo
 ![](.assets/image.png)
 ## Architecture
 ![](.assets/architecture.png)
